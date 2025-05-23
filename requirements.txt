@@ -1,0 +1,7 @@
+numpy
+opencv-python
+dlib
+Pillow
+scikit-learn
+scipy
+joblib 
