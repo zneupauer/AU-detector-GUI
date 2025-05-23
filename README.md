@@ -1,6 +1,6 @@
 # AU Detector GUI
 
-This project is a graphical user interface (GUI) for detecting facial Action Units (AUs) using computer vision and machine learning. It uses dlib, OpenCV, scikit-learn, and other libraries for feature extraction and prediction.
+This project is a simple visualization tool created as part of a bachelor thesis focused on automatic facial expression analysis. It provides a graphical user interface (GUI) for visualizing the predictions of pre-trained models that detect facial Action Units (AUs). The tool uses libraries such as dlib, OpenCV, and scikit-learn to extract facial features from a static image and display the outputs of trained classifiers in an intuitive format.
 
 ## Requirements
 
@@ -94,5 +94,3 @@ Let me know if you want this added directly to your `README.md`!
 - **Missing model files:**  
   - Ensure all required folders and the shape predictor `.dat` file are present in your project directory.
 
-## License
-[MIT License](LICENSE) (or your chosen license) 
